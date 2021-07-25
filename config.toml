@@ -15,7 +15,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 [[deployment.targets]]
 #S3 Bucket Deployment
 name = "awsbucket"
-URL = "S3://www.tonycorreia.mba/?region=us-west-1"
+URL = "s3://www.tonycorreia.mba/?region=us-west-1"
 
 ############################# Outputs ##############################
 [outputs]
