@@ -1,7 +1,7 @@
 ---
 title : "Contact"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
-form_action: "acorreia@ucdavis.com" # works with https://formspree
+form_action: "https://formspree.io/f/mrgryqqg" # works with https://formspree
 name: "Name"
 email: "Email"
 message: "Message"
