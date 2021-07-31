@@ -22,4 +22,4 @@ phases:
       - hugo s3 sync public/ s3://tonycorreia.mba/ --region us-west-1 --delete
   post_build:
     commands:
-      - echo Build completed on `date`
+      - echo build completed on `date`
