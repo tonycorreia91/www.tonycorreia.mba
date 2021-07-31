@@ -99,7 +99,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "A site built by myself using Hugo. Thank you for visiting!"
+copyright = "A site built by myself using Hugo. Thank you for visiting! Test"
 
 
 ################# english navigation ##################
