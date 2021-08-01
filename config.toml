@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tonycorreia.mba.s3-website-us-west-1.amazonaws.com/"
+baseURL = "https://d1x4dl63wbdic5.cloudfront.net"
 title = "Tony Correia | Welcome"
 theme = "somrat"
 # post pagination

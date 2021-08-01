@@ -5,7 +5,7 @@ image : "images/backgrounds/me3.png"
 button:
   enable : true
   label : "RESUME"
-  link : "https://github.com/tonycorreia91/Technical-Discussion/files/6873045/Tony_Correia_Resume.pdf"
+  link : "https://github.com/tonycorreia91/Technical-Discussion/files/6912877/Tony_Correia_Resume.pdf"
 
 ########################### Experience ##############################
 experience:
