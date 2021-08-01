@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "//tonycorreia.mba.s3-website-us-west-1.amazonaws.com/"
+baseURL = "https://tonycorreia.mba.s3-website-us-west-1.amazonaws.com/"
 title = "Tony Correia | Welcome"
 theme = "somrat"
 # post pagination
@@ -99,7 +99,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "A site built by myself using Hugo. Thank you for visiting! Test"
+copyright = "A site built by myself using Hugo. Thank you for visiting!"
 
 
 ################# english navigation ##################
