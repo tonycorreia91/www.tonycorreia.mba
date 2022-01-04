@@ -5,7 +5,7 @@ image : "images/backgrounds/me3.png"
 button:
   enable : true
   label : "RESUME"
-  link : "https://github.com/tonycorreia91/Technical-Discussion/files/6912877/Tony_Correia_Resume.pdf"
+  link : "https://github.com/tonycorreia91/Technical-Discussion/files/7804243/Tony.Correia.Resume.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -16,19 +16,19 @@ experience:
     - name : "Masters of Business Administration (MBA)"
       company : "UC Davis -"
       duration : "Expected 2021"
-      content : "• STEM Designation <br>• 2021 Corbett Entrepreneurship Fellow, awarded to an MBA student for motivation, potential, and passion for succeeding in the entrepreneurial world."
+      content : "&#8226; STEM Designation <br>&#8226; 2021 Corbett Entrepreneurship Fellow, awarded to an MBA student for motivation, potential, and passion for succeeding in the entrepreneurial world."
       
     # experience item loop
     - name : "Bachelor of Arts: <br> Communication"
       company : "UC Santa Barbara -"
       duration : "2014"
-      content : "• Academic Excellence Award for academic success and community outreach (1 of 106 in graduating class) <br>• Department Recognitions and Honors for research in the field resulting in publication (1 of 7 in department) <br>•  Lambda Pi Eta for involvement with National Communication Honors Society (1 of 30 in department)"
+      content : "&#8226; Academic Excellence Award for academic success and community outreach (1 of 106 in graduating class) <br>&#8226; Department Recognitions and Honors for research in the field resulting in publication (1 of 7 in department) <br>&#8226;  Lambda Pi Eta for involvement with National Communication Honors Society (1 of 30 in department)"
       
     # experience item loop
     - name : "Associate of Arts (5): <br> Economics, Global Studies, Natural Sciences, Social Sciences, Humanities"
       company : "Santa Rosa Junior College -"
       duration : "2012"
-      content : "• Highest Honors <br>• Dean's List during all semesters of attendance"
+      content : "&#8226; Highest Honors <br>&#8226; Dean's List during all semesters of attendance"
 
 ############################### Skill #################################
 skill:
