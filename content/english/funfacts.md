@@ -5,7 +5,7 @@ funfacts:
 # funfacts item loop
 - name : "YEARS WORK EXPERIENCE"
   image : "images/icons/works.png"
-  count : "11"
+  count : "12"
 
 # funfacts item loop
 - name : "BUSINESSES ASSISTED"
@@ -15,7 +15,7 @@ funfacts:
 # funfacts item loop
 - name : "DEGREES"
   image : "images/icons/cert.png"
-  count : "7"
+  count : "8"
   
 # funfacts item loop
 - name : "CUPS OF COFFEE"

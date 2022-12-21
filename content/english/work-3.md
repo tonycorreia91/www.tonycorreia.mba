@@ -9,21 +9,23 @@ Experience:
 ############################### Experience-Left-Side #################################
 skill:
   enable : true
-  title : "BUSINESS DEVELOPMENT & CUSTOMER SERVICE EXPERIENCE"
-  role: "Serving Assistant, Food Runner | <br>Francis Ford Coppola Winery"
-  locationdate: "Geyserville, CA, 2014-2018"
-  content: "Forwarded the company's business goals by implementing business sales strategies."
-  content2: "Provided information and insights to patrons on wine grape cultivars and the surrounding area’s food and viticulture."
+  title : "SOCIAL VENTURES EXPERIENCE"
+  role: "Board Member & Treasurer | <br>Healdsburg Performing Arts Theater"
+  locationdate: "Healdsburg, CA, 2022"
+  content: "Review financial statements on a monthly basis, ensuring enough cash to meet operating needs."
+  content2: "Propose financial strategies to ensure the longevity of the company, resulting in the implementation of new ticket prices, differentiated pricing for ticket sales, a change in donor strategy, and a change in the company’s financial goals (i.e. to move towards industry standards in regards to donor vs. ticket revenue)."
 
 ############################### Experience 2 #################################
-  role2: "Outdoor Services | Santa Barbara Golf Club"
-  locationdate2: "Santa Barbara, CA, 2012-2014"
-  content3: "Improved the processes within the outdoor services position, reducing inefficiencies and leading to quicker servicing during tournament days."
+  role2: "UC Big Ideas Contest Ambassador | <br> University of California"
+  locationdate2: "Berkeley, CA, 2020"
+  content3: "Contributed to a 5% increase in total number of applications from an already-successful previous year."
+  content5: "Onboarded UC Hastings to the contest, resulting in contest applications from the campus for the first time."
+  content6: "Mentored 35 teams, aiding with business development, executive summaries, and funding opportunities."
 
 ############################### Experience 3 #################################
-  role3: "Outdoor Services | HVL Association"
-  locationdate3: "Hidden Valley Lake, CA, 2010-2012"
-  content4: "Utilized excellent customer service leveraging knowledge of the golf industry resulting in satisfied clients and repeat business."
+  role3: ""
+  locationdate3: "&#43; 8 years of additional experience with 3 companies in customer service, sales, and business development."
+  # content4: "" deleted list item in index.html to condense space.#
 
 # custom style
 custom_class: "" 

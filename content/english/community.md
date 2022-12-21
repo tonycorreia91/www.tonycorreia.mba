@@ -4,9 +4,15 @@ testimonial_slider:
 # slider item loop
 - name : "Innovation Network"
   image : "images/clients/INLogo1.png"
-  designation : "Director, 2019-Present"
+  designation : "Director, 2019-2022"
   content : "Founded the Network with the mission to connect students innovating in various industries with industry professionals."
             
+# slider item loop
+- name : "UCD Student Startup Center"
+  image : "images/clients/ssc.png"
+  designation : "Early Stage Venture Judge, 2022"
+  content : "Invited as a judge to hear pitches and provide feedback to early stage venture founders."
+
 # slider item loop
 - name : "Women in Leadership"
   image : "images/clients/Wil.jpg"

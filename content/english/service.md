@@ -2,11 +2,11 @@
 title : "TECHNOLOGIES"
 service_list:
 # service item loop
-- name : "Web Development <br> with HTML/CSS, Wordpress, & Hugo"
+- name : "Web Development <br> with HTML/CSS, Bootstrap, & Wordpress"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Data Analysis <br> with SQL & Python"
+- name : "Data Analysis <br> with Excel, SQL, & Power BI"
   image : "images/icons/marketing.png"
   
 # service item loop

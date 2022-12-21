@@ -6,7 +6,7 @@ last_name : "Correia"
 bg_image : "images/backgrounds/computermeeting.jpg"
 # animated text loop
 occupations:
-- "UC Davis MBA Candidate"
+- "UC Davis MBA"
 - "Project Management Professional (PMP)"
 - "Innovator"
 
